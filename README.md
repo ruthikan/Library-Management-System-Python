@@ -38,7 +38,7 @@ A simple **Library Management System** built using **Python**. It allows users t
 - [ ] Add testing for edge cases.
 
 👩‍💻 Author: 
-Ruthika
+Ruthika,
 Passionate about Python and software development. You can connect with me on LinkedIn.
 
 📜 License:
