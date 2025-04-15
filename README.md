@@ -37,12 +37,13 @@ A simple **Library Management System** built using **Python**. It allows users t
 - [ ] Improve error handling and validation.
 - [ ] Add testing for edge cases.
 
-👩‍💻 Author: Ruthika
+👩‍💻 Author: 
+Ruthika
 Passionate about Python and software development. You can connect with me on LinkedIn.
 
 📜 License:
 This project does not have a formal license. Feel free to use it for educational or personal purposes.
 
 🔗 Links:
-GitHub Repository: https://github.com/ruthikan/Library-Management-System-Python.git
+GitHub Repository: https://github.com/ruthikan/Library-Management-System-Python.git                   
 LinkedIn Profile : https://www.linkedin.com/in/ruthika-nalajala-73127628b/
